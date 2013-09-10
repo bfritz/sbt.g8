@@ -4,7 +4,7 @@ This is a fork from @ymasory's [sbt.g8 template](https://github.com/ymasory/sbt.
 
 ## Notes
 
-- Use Scala 2.10.1 and sbt 0.12.3
+- Use Scala 2.10.2 and sbt 0.12.3
 - Growl plugin for tests
 - Consolidated build.sbt file: scalatest, logback and typesafe config are included.
 - sbt-assembly for fat jar's.
