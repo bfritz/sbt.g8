@@ -64,7 +64,7 @@ javacOptions ++= Seq("-Xlint:unchecked", "-Xlint:deprecation")
 /* dependencies */
 libraryDependencies ++= Seq (
   // -- testing --
-  "org.scalatest" % "scalatest_2.10" % "2.0.M5b" % "test"
+  "org.scalatest" % "scalatest_2.10" % "2.0.M7" % "test"
   , "org.scalamock" %% "scalamock-scalatest-support" % "3.0.1" % "test" 
   // -- Logging --
   ,"ch.qos.logback" % "logback-classic" % "1.0.13"
